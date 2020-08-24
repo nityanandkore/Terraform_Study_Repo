@@ -1,3 +1,3 @@
 git add .
-git commit -m "autoupdate `date +%F-%T`"
+git commit -m "Commiting Changes"
 git push
