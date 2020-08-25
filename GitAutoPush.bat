@@ -6,7 +6,7 @@
 
 	::Change <path> as needed. Eg. C:\Users\rich\Desktop\Writings
 
-	cd C:\Users\P2190101\Desktop\NK Personal\NK Study\UNCC\6190 - Cloud Computing\Terraform\Terraform_Study_Repo
+	cd C:\Users\Nityanand\Syncplicity\NK Study (Nityanand.Kore@charter.com )\UNCC\6190 - Cloud Computing\Terraform\Terraform_Study_Repo
 
 	
 
